@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "conta": [
+    {
+      "tipoConta": "receita",
+      "categoria": "SALARIO",
+      "descricao": "Salario Março 2021",
+      "valor": 2000,
+      "dataVencimento": "2021-03-05T03:00:00.000Z",
+      "id": 2,
+      "dataPagamento": "1970-01-01T00:00:00.000Z"
+    },
+    {
+      "tipoConta": "despesa",
+      "categoria": "OUTROS",
+      "descricao": "Condominio",
+      "valor": 150,
+      "dataVencimento": "2021-03-29T03:00:00.000Z",
+      "dataPagamento": "2021-03-29T03:46:35.014Z",
+      "id": 3
+    },
+    {
+      "tipoConta": "receita",
+      "categoria": "SALARIO",
+      "descricao": "PL",
+      "valor": 995.55,
+      "dataVencimento": "2022-09-19T03:00:00.000Z",
+      "dataPagamento": "2021-03-10T01:51:20.353Z",
+      "id": 4
+    },
+    {
+      "tipoConta": "despesa",
+      "categoria": "OUTROS",
+      "descricao": "Aluguel",
+      "valor": 900,
+      "dataVencimento": "2021-05-30T03:00:00.000Z",
+      "dataPagamento": "2021-05-30T03:00:00.000Z",
+      "id": 11
+    }
+  ]
+}
