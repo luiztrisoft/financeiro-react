@@ -1,2 +1,2 @@
 # Financeiro React
-Sistema de lançamentos de receitas e despesas usando react, db.json, redux, routes e a base TFEB que pode ser encontrada neste repositório
+Sistema de lançamentos de receitas e despesas usando react, redux, routes, db.json, apexcharts, sweetalert2 e a base TFEB que pode ser encontrada neste repositório
