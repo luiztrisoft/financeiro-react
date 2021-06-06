@@ -3,5 +3,4 @@ Sistema de lançamentos de receitas e despesas usando react, redux, routes, db.j
 
 ## Inicio dos serviços
 ### npm start
-
-###json-server --watch -p 9999 db.json
+### json-server --watch -p 9999 db.json
